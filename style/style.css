@@ -78,7 +78,7 @@ body{
 }
 
 .ihd1 {
-    background-image: url("/img/icon.png");
+    background-image: url("img/icon.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
