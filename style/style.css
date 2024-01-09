@@ -3,7 +3,7 @@ body{
 }
 
 .logo {
-    background-image: url("../img/flint_hills.png");
+    background-image: url("/img/flint_hills.png");
     width: 230px;
     height: 38px;
     background-size: contain;
@@ -78,7 +78,7 @@ body{
 }
 
 .ihd1 {
-    background-image: url("../img/icon.png");
+    background-image: url("/img/icon.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
