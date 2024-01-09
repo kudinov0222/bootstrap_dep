@@ -1,9 +1,9 @@
 body{
-    background-image: url("img/background.png");
+    background-image: url("/img/background.png");
 }
 
 .logo {
-    background-image: url("img/flint_hills.png");
+    background-image: url("/img/flint_hills.png");
     width: 230px;
     height: 38px;
     background-size: contain;
@@ -11,7 +11,7 @@ body{
 }
 
 .burger_menu {
-    background-image: url("img/burger_menu.png");
+    background-image: url("/img/burger_menu.png");
     width: 230px;
     height: 38px;
     background-size: contain;
@@ -78,7 +78,7 @@ body{
 }
 
 .ihd1 {
-    background-image: url("img/icon.png");
+    background-image: url("/img/icon.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
